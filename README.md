@@ -1,4 +1,4 @@
-# Sistema de Conversión de videos de cámaras de seguridad marca Dahua y sincronización con AWS (Amazon Web Services)
+# Sistema de Conversión de videos de cámaras de seguridad marca Dahua y sincronización con la nube AZURE ó AWS (Amazon Web Services)
 
 - La idea es poder tener disponible en la nube una copia de seguridad de los videos de sistemas de cámaras DAHUA, en un formato más compatible para poder reproducirlo ya sea en una computadora o dispositivo móvil directamente. El storage también podría ser NAS, por ejemplo.
 
